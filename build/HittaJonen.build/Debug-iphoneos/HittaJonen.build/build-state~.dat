@@ -1,0 +1,1150 @@
+THittaJonen
+v7
+r0
+t300882877.818077
+cCheck dependencies
+cCpResource build/Debug-iphoneos/HittaJonen.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/HittaJonen.app/Info.plist HittaJonen-Info.plist
+cCompileXIB /Users/enlund/OeG/Projects/HittaJonen/MainWindow.xib
+cCompileXIB /Users/enlund/OeG/Projects/HittaJonen/HittaJonenViewController.xib
+cCompileXIB /Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.xib
+cProcessPCH /var/folders/NL/NLcNKkHyHv4L8R7p52wVLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HittaJonen_Prefix-bklgeqpnipxiipcedpdenzkkuuas/HittaJonen_Prefix.pch.gch HittaJonen_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/NL/NLcNKkHyHv4L8R7p52wVLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HittaJonen_Prefix-fldnlwovqqxxfxdfcqvetnlxuwqg/HittaJonen_Prefix.pch.gch HittaJonen_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/main.o /Users/enlund/OeG/Projects/HittaJonen/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/HittaJonenAppDelegate.o /Users/enlund/OeG/Projects/HittaJonen/Classes/HittaJonenAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/HittaJonenViewController.o /Users/enlund/OeG/Projects/HittaJonen/Classes/HittaJonenViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/OEGCommitQueue.o /Users/enlund/OeG/Projects/HittaJonen/Classes/OEGCommitQueue.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/OEGCommitOperation.o /Users/enlund/OeG/Projects/HittaJonen/Classes/OEGCommitOperation.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/OEGCommitRequester.o /Users/enlund/OeG/Projects/HittaJonen/Classes/OEGCommitRequester.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/NSString+OEGUrlEncodingString.o /Users/enlund/OeG/Projects/HittaJonen/../Nattstad/Classes/NSString+OEGUrlEncodingString.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/NSURLConnection+OEGMultipleAttempts.o /Users/enlund/OeG/Projects/HittaJonen/../Nattstad/Classes/NSURLConnection+OEGMultipleAttempts.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/VenuesListViewController.o /Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/Venue.o /Users/enlund/OeG/Projects/HittaJonen/Classes/Venue.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/CDataScanner.o /Users/enlund/OeG/Projects/HittaJonen/Classes/Source/CDataScanner.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/CDataScanner_Extensions.o /Users/enlund/OeG/Projects/HittaJonen/Classes/Source/Extensions/CDataScanner_Extensions.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/NSCharacterSet_Extensions.o /Users/enlund/OeG/Projects/HittaJonen/Classes/Source/Extensions/NSCharacterSet_Extensions.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/CJSONDeserializer.o /Users/enlund/OeG/Projects/HittaJonen/Classes/Source/JSON/CJSONDeserializer.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/CJSONScanner.o /Users/enlund/OeG/Projects/HittaJonen/Classes/Source/JSON/CJSONScanner.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/CJSONSerializer.o /Users/enlund/OeG/Projects/HittaJonen/Classes/Source/JSON/CJSONSerializer.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/main.o /Users/enlund/OeG/Projects/HittaJonen/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/HittaJonen normal armv6
+cCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/HittaJonenAppDelegate.o /Users/enlund/OeG/Projects/HittaJonen/Classes/HittaJonenAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/HittaJonenViewController.o /Users/enlund/OeG/Projects/HittaJonen/Classes/HittaJonenViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/OEGCommitQueue.o /Users/enlund/OeG/Projects/HittaJonen/Classes/OEGCommitQueue.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/OEGCommitOperation.o /Users/enlund/OeG/Projects/HittaJonen/Classes/OEGCommitOperation.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/OEGCommitRequester.o /Users/enlund/OeG/Projects/HittaJonen/Classes/OEGCommitRequester.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/NSString+OEGUrlEncodingString.o /Users/enlund/OeG/Projects/HittaJonen/../Nattstad/Classes/NSString+OEGUrlEncodingString.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/NSURLConnection+OEGMultipleAttempts.o /Users/enlund/OeG/Projects/HittaJonen/../Nattstad/Classes/NSURLConnection+OEGMultipleAttempts.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/VenuesListViewController.o /Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/Venue.o /Users/enlund/OeG/Projects/HittaJonen/Classes/Venue.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/CDataScanner.o /Users/enlund/OeG/Projects/HittaJonen/Classes/Source/CDataScanner.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/CDataScanner_Extensions.o /Users/enlund/OeG/Projects/HittaJonen/Classes/Source/Extensions/CDataScanner_Extensions.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/NSCharacterSet_Extensions.o /Users/enlund/OeG/Projects/HittaJonen/Classes/Source/Extensions/NSCharacterSet_Extensions.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/CJSONDeserializer.o /Users/enlund/OeG/Projects/HittaJonen/Classes/Source/JSON/CJSONDeserializer.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/CJSONScanner.o /Users/enlund/OeG/Projects/HittaJonen/Classes/Source/JSON/CJSONScanner.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/CJSONSerializer.o /Users/enlund/OeG/Projects/HittaJonen/Classes/Source/JSON/CJSONSerializer.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/HittaJonen normal armv7
+cCreateUniversalBinary /Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/HittaJonen.app/HittaJonen normal "armv6 armv7"
+cGenerateDSYMFile /Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/HittaJonen.app.dSYM /Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/HittaJonen.app/HittaJonen
+cProcessProductPackaging "/Users/enlund/Library/MobileDevice/Provisioning Profiles/7382D161-E76E-4EC2-8BBB-436DC7C2199E.mobileprovision" /Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/HittaJonen.app/embedded.mobileprovision
+cTouch /Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/HittaJonen.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen.xcent
+cCodeSign /Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/HittaJonen.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk
+c000000004C05C1B10000000000000110
+t1275445681
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist
+c000000004BF4B7F900000000000001A7
+t1274329081
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+c000000004BF4B7F900000000000001E5
+t1274329081
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFE06FA000000000034A850
+t1274939130
+s3450960
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004C04706200000000000C1E70
+t1275359330
+s794224
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004C04705A00000000000001D0
+t1275359322
+s464
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFE07D200000000003E1EB0
+t1274939346
+s4071088
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFE07B10000000000001466
+t1274939313
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C04711400000000000009CD
+t1275359508
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471FC0000000002D563E0
+t1275359740
+s47539168
+
+N/Users/enlund/Library/MobileDevice/Provisioning Profiles/7382D161-E76E-4EC2-8BBB-436DC7C2199E.mobileprovision
+c000000004C209CBD0000000000002676
+t1277205693
+s9846
+
+N/Users/enlund/OeG/Projects/HittaJonen/../Nattstad/Classes/NSString+OEGUrlEncodingString.h
+c000000004B069487000000000000013C
+t1258722439
+s316
+i<Foundation/Foundation.h>
+
+N/Users/enlund/OeG/Projects/HittaJonen/../Nattstad/Classes/NSString+OEGUrlEncodingString.m
+c000000004B0165F9000000000000020D
+t1258382841
+s525
+
+N/Users/enlund/OeG/Projects/HittaJonen/../Nattstad/Classes/NSURLConnection+OEGMultipleAttempts.h
+c000000004B61BC700000000000000257
+t1264696432
+s599
+i<Foundation/Foundation.h>
+
+N/Users/enlund/OeG/Projects/HittaJonen/../Nattstad/Classes/NSURLConnection+OEGMultipleAttempts.m
+c000000004B61BC7000000000000004DF
+t1264696432
+s1247
+i"NSURLConnection+OEGMultipleAttempts.h"
+
+N/Users/enlund/OeG/Projects/HittaJonen/Classes/HittaJonenAppDelegate.h
+c000000004C3EC9820000000000000314
+t1279183234
+s788
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+
+N/Users/enlund/OeG/Projects/HittaJonen/Classes/HittaJonenAppDelegate.m
+c000000004C3EB3DF0000000000001461
+t1279177695
+s5217
+i"HittaJonenAppDelegate.h"
+i"HittaJonenViewController.h"
+i"OEGCommitQueue.h"
+
+N/Users/enlund/OeG/Projects/HittaJonen/Classes/HittaJonenViewController.h
+c000000004C3C7B9A00000000000001C1
+t1279032218
+s449
+i<UIKit/UIKit.h>
+i"HittaJonenAppDelegate.h"
+
+N/Users/enlund/OeG/Projects/HittaJonen/Classes/HittaJonenViewController.m
+c000000004C3DC59C0000000000000725
+t1279116700
+s1829
+i"HittaJonenViewController.h"
+i"HittaJonenAppDelegate.h"
+
+N/Users/enlund/OeG/Projects/HittaJonen/Classes/OEGCommitOperation.h
+c000000004B0694870000000000000410
+t1258722439
+s1040
+i<Foundation/Foundation.h>
+
+N/Users/enlund/OeG/Projects/HittaJonen/Classes/OEGCommitOperation.m
+c000000004B0694870000000000000B3B
+t1258722439
+s2875
+i"OEGCommitOperation.h"
+i"OEGCommitQueue.h"
+
+N/Users/enlund/OeG/Projects/HittaJonen/Classes/OEGCommitQueue.h
+c000000004B0694870000000000000522
+t1258722439
+s1314
+i<Foundation/Foundation.h>
+i"OEGCommitOperation.h"
+i"OEGCommitRequester.h"
+
+N/Users/enlund/OeG/Projects/HittaJonen/Classes/OEGCommitQueue.m
+c000000004B0694870000000000000E41
+t1258722439
+s3649
+i"OEGCommitQueue.h"
+
+N/Users/enlund/OeG/Projects/HittaJonen/Classes/OEGCommitRequester.h
+c000000004B0694870000000000000257
+t1258722439
+s599
+i<Foundation/Foundation.h>
+
+N/Users/enlund/OeG/Projects/HittaJonen/Classes/OEGCommitRequester.m
+c000000004B0694870000000000001CB9
+t1258722439
+s7353
+i"OEGCommitQueue.h"
+i"OEGCommitRequester.h"
+i"OEGCommitOperation.h"
+i"NSString+OEGUrlEncodingString.h"
+i"NSURLConnection+OEGMultipleAttempts.h"
+
+N/Users/enlund/OeG/Projects/HittaJonen/Classes/Source/CDataScanner.h
+c000000004A0B1B9A0000000000000946
+t1242241946
+s2374
+i<Foundation/Foundation.h>
+
+N/Users/enlund/OeG/Projects/HittaJonen/Classes/Source/CDataScanner.m
+c000000004A0B1B9A000000000000165F
+t1242241946
+s5727
+i"CDataScanner.h"
+i"CDataScanner_Extensions.h"
+
+N/Users/enlund/OeG/Projects/HittaJonen/Classes/Source/Extensions/CDataScanner_Extensions.h
+c000000004A0B1B9A0000000000000598
+t1242241946
+s1432
+i"CDataScanner.h"
+
+N/Users/enlund/OeG/Projects/HittaJonen/Classes/Source/Extensions/CDataScanner_Extensions.m
+c000000004A0B1B9A00000000000009D4
+t1242241946
+s2516
+i"CDataScanner_Extensions.h"
+i"NSCharacterSet_Extensions.h"
+
+N/Users/enlund/OeG/Projects/HittaJonen/Classes/Source/Extensions/NSCharacterSet_Extensions.h
+c000000004A0B1B9A0000000000000565
+t1242241946
+s1381
+i<Foundation/Foundation.h>
+
+N/Users/enlund/OeG/Projects/HittaJonen/Classes/Source/Extensions/NSCharacterSet_Extensions.m
+c000000004A0B1B9A000000000000071C
+t1242241946
+s1820
+i"NSCharacterSet_Extensions.h"
+
+N/Users/enlund/OeG/Projects/HittaJonen/Classes/Source/JSON/CJSONDeserializer.h
+c000000004A0B1B9A0000000000000766
+t1242241946
+s1894
+i<Foundation/Foundation.h>
+
+N/Users/enlund/OeG/Projects/HittaJonen/Classes/Source/JSON/CJSONDeserializer.m
+c000000004A0B1B9A00000000000009C2
+t1242241946
+s2498
+i"CJSONDeserializer.h"
+i"CJSONScanner.h"
+i"CDataScanner.h"
+
+N/Users/enlund/OeG/Projects/HittaJonen/Classes/Source/JSON/CJSONScanner.h
+c000000004A0B1B9A0000000000000700
+t1242241946
+s1792
+i"CDataScanner.h"
+
+N/Users/enlund/OeG/Projects/HittaJonen/Classes/Source/JSON/CJSONScanner.m
+c000000004A0B1B9A0000000000003922
+t1242241946
+s14626
+i"CJSONScanner.h"
+i"NSCharacterSet_Extensions.h"
+i"CDataScanner_Extensions.h"
+
+N/Users/enlund/OeG/Projects/HittaJonen/Classes/Source/JSON/CJSONSerializer.h
+c000000004A0B1B9A000000000000066A
+t1242241946
+s1642
+i<Foundation/Foundation.h>
+
+N/Users/enlund/OeG/Projects/HittaJonen/Classes/Source/JSON/CJSONSerializer.m
+c000000004A0B1B9A00000000000016F0
+t1242241946
+s5872
+i"CJSONSerializer.h"
+
+N/Users/enlund/OeG/Projects/HittaJonen/Classes/Venue.h
+c000000004C3ECAC80000000000000261
+t1279183560
+s609
+i<Foundation/Foundation.h>
+
+N/Users/enlund/OeG/Projects/HittaJonen/Classes/Venue.m
+c000000004C3ECABC00000000000000E6
+t1279183548
+s230
+i"Venue.h"
+
+N/Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.h
+c000000004C3ED6680000000000000158
+t1279186536
+s344
+i<UIKit/UIKit.h>
+
+N/Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.m
+c000000004C3EE27D00000000000025E4
+t1279189629
+s9700
+i"VenuesListViewController.h"
+i"Venue.h"
+i"HittaJonenAppDelegate.h"
+i"CJSONDeserializer.h"
+
+N/Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.xib
+c000000004C3ECA020000000000001C93
+t1279183362
+s7315
+
+N/Users/enlund/OeG/Projects/HittaJonen/HittaJonenViewController.xib
+c000000004C3C71EF0000000000005E81
+t1279029743
+s24193
+
+N/Users/enlund/OeG/Projects/HittaJonen/HittaJonen_Prefix.pch
+c000000004C3C654900000000000000BD
+t1279026505
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/enlund/OeG/Projects/HittaJonen/MainWindow.xib
+c000000004C3ED6030000000000009900
+t1279186435
+s39168
+
+N/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/HittaJonen.app
+t1279190077
+s408
+
+N/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/HittaJonen.app.dSYM
+t1279190076
+s102
+
+N/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/HittaJonen.app/HittaJonen
+t1279190076
+s179660
+
+N/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/HittaJonen.app/HittaJonenViewController.nib
+t1279190068
+s1744
+
+N/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/HittaJonen.app/Info.plist
+t1279190064
+s782
+
+N/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/HittaJonen.app/MainWindow.nib
+t1279190068
+s2778
+
+N/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/HittaJonen.app/PkgInfo
+t1279190064
+s8
+
+N/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/HittaJonen.app/ResourceRules.plist
+t1279190065
+s485
+
+N/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/HittaJonen.app/VenuesListViewController.nib
+t1279190069
+s979
+
+N/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/HittaJonen.app/embedded.mobileprovision
+t1279190076
+s9846
+
+N/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen.xcent
+t1279190076
+s426
+
+N/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/CDataScanner.o
+t1279190074
+s24908
+
+N/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/CDataScanner_Extensions.o
+t1279190074
+s10024
+
+N/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/CJSONDeserializer.o
+t1279190074
+s12304
+
+N/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/CJSONScanner.o
+t1279190074
+s32124
+
+N/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/CJSONSerializer.o
+t1279190074
+s20500
+
+N/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/HittaJonen
+t1279190074
+s89844
+
+N/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/HittaJonen.LinkFileList
+c000000004C3EE4300000000000000878
+t1279190064
+s2168
+
+N/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/HittaJonenAppDelegate.o
+t1279190073
+s59412
+
+N/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/HittaJonenViewController.o
+t1279190073
+s46736
+
+N/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/NSCharacterSet_Extensions.o
+t1279190074
+s7140
+
+N/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/NSString+OEGUrlEncodingString.o
+t1279190073
+s8040
+
+N/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/NSURLConnection+OEGMultipleAttempts.o
+t1279190073
+s9496
+
+N/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/OEGCommitOperation.o
+t1279190073
+s19572
+
+N/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/OEGCommitQueue.o
+t1279190073
+s18536
+
+N/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/OEGCommitRequester.o
+t1279190073
+s30844
+
+N/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/Venue.o
+t1279190074
+s8692
+
+N/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/VenuesListViewController.o
+t1279190074
+s59088
+
+N/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/main.o
+t1279190073
+s6436
+
+N/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/CDataScanner.o
+t1279190075
+s24452
+
+N/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/CDataScanner_Extensions.o
+t1279190075
+s9960
+
+N/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/CJSONDeserializer.o
+t1279190075
+s12220
+
+N/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/CJSONScanner.o
+t1279190076
+s28696
+
+N/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/CJSONSerializer.o
+t1279190075
+s19980
+
+N/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/HittaJonen
+t1279190076
+s85452
+
+N/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/HittaJonen.LinkFileList
+c000000004C3EE4300000000000000878
+t1279190064
+s2168
+
+N/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/HittaJonenAppDelegate.o
+t1279190074
+s59124
+
+N/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/HittaJonenViewController.o
+t1279190074
+s46660
+
+N/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/NSCharacterSet_Extensions.o
+t1279190075
+s7132
+
+N/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/NSString+OEGUrlEncodingString.o
+t1279190075
+s8012
+
+N/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/NSURLConnection+OEGMultipleAttempts.o
+t1279190075
+s9352
+
+N/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/OEGCommitOperation.o
+t1279190075
+s19232
+
+N/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/OEGCommitQueue.o
+t1279190075
+s18400
+
+N/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/OEGCommitRequester.o
+t1279190075
+s30220
+
+N/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/Venue.o
+t1279190075
+s8644
+
+N/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/VenuesListViewController.o
+t1279190075
+s58928
+
+N/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/main.o
+t1279190074
+s6420
+
+N/Users/enlund/OeG/Projects/HittaJonen/main.m
+c000000004C3C65490000000000000171
+t1279026505
+s369
+i<UIKit/UIKit.h>
+
+N/Users/enlund/OeG/Projects/Nattstad/Classes/NSURLConnection+OEGMultipleAttempts.h
+c000000004B61BC700000000000000257
+t1264696432
+s599
+i<Foundation/Foundation.h>
+
+N/var/folders/NL/NLcNKkHyHv4L8R7p52wVLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HittaJonen_Prefix-bklgeqpnipxiipcedpdenzkkuuas/HittaJonen_Prefix.pch.gch
+t1279190072
+s9831984
+
+N/var/folders/NL/NLcNKkHyHv4L8R7p52wVLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HittaJonen_Prefix-fldnlwovqqxxfxdfcqvetnlxuwqg/HittaJonen_Prefix.pch.gch
+t1279190072
+s10290736
+
+NHittaJonen-Info.plist
+c000000004C3C757100000000000003FA
+t1279030641
+s1018
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies300882864#300882864#0(0"0(0#1#0"8673695744#0"0#
+
+CCodeSign /Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/HittaJonen.app
+s300882876.368690
+e300882877.817851
+r1
+xCodeSign
+x/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/HittaJonen.app
+lSLF07#2@44"CodeSign build/Debug-iphoneos/HittaJonen.app300882876#300882877#0(0"0(0#0#73"/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/HittaJonen.app8673536864#659"    cd /Users/enlund/OeG/Projects/HittaJonen    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Jonas Enlund (YG38RYYJ36)" --resource-rules=/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/HittaJonen.app/ResourceRules.plist --entitlements /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen.xcent /Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/HittaJonen.app0#
+
+CCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/CDataScanner.o /Users/enlund/OeG/Projects/HittaJonen/Classes/Source/CDataScanner.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s300882874.046462
+e300882874.200081
+r1
+xCompileC
+xbuild/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/CDataScanner.o
+x/Users/enlund/OeG/Projects/HittaJonen/Classes/Source/CDataScanner.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/enlund/OeG/Projects/HittaJonen/Classes/Source/CDataScanner.m300882874#300882874#0(0"0(0#0#67"/Users/enlund/OeG/Projects/HittaJonen/Classes/Source/CDataScanner.m8672696128#1804"    cd /Users/enlund/OeG/Projects/HittaJonen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-generated-files.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-own-target-headers.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-all-target-headers.hmap -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-project-headers.hmap -F/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos -I/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/include -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources/armv6 -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources -include /var/folders/NL/NLcNKkHyHv4L8R7p52wVLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HittaJonen_Prefix-bklgeqpnipxiipcedpdenzkkuuas/HittaJonen_Prefix.pch -c /Users/enlund/OeG/Projects/HittaJonen/Classes/Source/CDataScanner.m -o /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/CDataScanner.o0#
+
+CCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/CDataScanner_Extensions.o /Users/enlund/OeG/Projects/HittaJonen/Classes/Source/Extensions/CDataScanner_Extensions.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s300882874.144379
+e300882874.234539
+r1
+xCompileC
+xbuild/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/CDataScanner_Extensions.o
+x/Users/enlund/OeG/Projects/HittaJonen/Classes/Source/Extensions/CDataScanner_Extensions.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/enlund/OeG/Projects/HittaJonen/Classes/Source/Extensions/CDataScanner_Extensions.m300882874#300882874#0(0"0(0#0#89"/Users/enlund/OeG/Projects/HittaJonen/Classes/Source/Extensions/CDataScanner_Extensions.m8675823232#1837"    cd /Users/enlund/OeG/Projects/HittaJonen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-generated-files.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-own-target-headers.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-all-target-headers.hmap -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-project-headers.hmap -F/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos -I/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/include -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources/armv6 -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources -include /var/folders/NL/NLcNKkHyHv4L8R7p52wVLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HittaJonen_Prefix-bklgeqpnipxiipcedpdenzkkuuas/HittaJonen_Prefix.pch -c /Users/enlund/OeG/Projects/HittaJonen/Classes/Source/Extensions/CDataScanner_Extensions.m -o /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/CDataScanner_Extensions.o0#
+
+CCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/CJSONDeserializer.o /Users/enlund/OeG/Projects/HittaJonen/Classes/Source/JSON/CJSONDeserializer.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s300882874.234652
+e300882874.405280
+r1
+xCompileC
+xbuild/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/CJSONDeserializer.o
+x/Users/enlund/OeG/Projects/HittaJonen/Classes/Source/JSON/CJSONDeserializer.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/enlund/OeG/Projects/HittaJonen/Classes/Source/JSON/CJSONDeserializer.m300882874#300882874#0(0"0(0#0#77"/Users/enlund/OeG/Projects/HittaJonen/Classes/Source/JSON/CJSONDeserializer.m8674300256#1819"    cd /Users/enlund/OeG/Projects/HittaJonen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-generated-files.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-own-target-headers.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-all-target-headers.hmap -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-project-headers.hmap -F/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos -I/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/include -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources/armv6 -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources -include /var/folders/NL/NLcNKkHyHv4L8R7p52wVLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HittaJonen_Prefix-bklgeqpnipxiipcedpdenzkkuuas/HittaJonen_Prefix.pch -c /Users/enlund/OeG/Projects/HittaJonen/Classes/Source/JSON/CJSONDeserializer.m -o /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/CJSONDeserializer.o0#
+
+CCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/CJSONScanner.o /Users/enlund/OeG/Projects/HittaJonen/Classes/Source/JSON/CJSONScanner.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s300882874.293332
+e300882874.628574
+r1
+xCompileC
+xbuild/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/CJSONScanner.o
+x/Users/enlund/OeG/Projects/HittaJonen/Classes/Source/JSON/CJSONScanner.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/enlund/OeG/Projects/HittaJonen/Classes/Source/JSON/CJSONScanner.m300882874#300882874#0(0"0(0#0#72"/Users/enlund/OeG/Projects/HittaJonen/Classes/Source/JSON/CJSONScanner.m8673462048#1809"    cd /Users/enlund/OeG/Projects/HittaJonen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-generated-files.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-own-target-headers.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-all-target-headers.hmap -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-project-headers.hmap -F/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos -I/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/include -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources/armv6 -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources -include /var/folders/NL/NLcNKkHyHv4L8R7p52wVLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HittaJonen_Prefix-bklgeqpnipxiipcedpdenzkkuuas/HittaJonen_Prefix.pch -c /Users/enlund/OeG/Projects/HittaJonen/Classes/Source/JSON/CJSONScanner.m -o /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/CJSONScanner.o0#
+
+CCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/CJSONSerializer.o /Users/enlund/OeG/Projects/HittaJonen/Classes/Source/JSON/CJSONSerializer.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s300882874.405475
+e300882874.567135
+r1
+xCompileC
+xbuild/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/CJSONSerializer.o
+x/Users/enlund/OeG/Projects/HittaJonen/Classes/Source/JSON/CJSONSerializer.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/enlund/OeG/Projects/HittaJonen/Classes/Source/JSON/CJSONSerializer.m300882874#300882874#0(0"0(0#0#75"/Users/enlund/OeG/Projects/HittaJonen/Classes/Source/JSON/CJSONSerializer.m8673108960#1815"    cd /Users/enlund/OeG/Projects/HittaJonen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-generated-files.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-own-target-headers.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-all-target-headers.hmap -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-project-headers.hmap -F/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos -I/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/include -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources/armv6 -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources -include /var/folders/NL/NLcNKkHyHv4L8R7p52wVLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HittaJonen_Prefix-bklgeqpnipxiipcedpdenzkkuuas/HittaJonen_Prefix.pch -c /Users/enlund/OeG/Projects/HittaJonen/Classes/Source/JSON/CJSONSerializer.m -o /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/CJSONSerializer.o0#
+
+CCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/HittaJonenAppDelegate.o /Users/enlund/OeG/Projects/HittaJonen/Classes/HittaJonenAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s300882873.212641
+e300882873.468036
+r1
+xCompileC
+xbuild/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/HittaJonenAppDelegate.o
+x/Users/enlund/OeG/Projects/HittaJonen/Classes/HittaJonenAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/enlund/OeG/Projects/HittaJonen/Classes/HittaJonenAppDelegate.m: In function '-[HittaJonenAppDelegate locationManager:didUpdateToLocation:fromLocation:]':
+o/Users/enlund/OeG/Projects/HittaJonen/Classes/HittaJonenAppDelegate.m:143: warning: class 'HittaJonenAppDelegate' does not implement the 'OEGCommitQueueDelegate' protocol
+lSLF07#2@77"Compile /Users/enlund/OeG/Projects/HittaJonen/Classes/HittaJonenAppDelegate.m300882873#300882873#0(332"/Users/enlund/OeG/Projects/HittaJonen/Classes/HittaJonenAppDelegate.m: In function '-[HittaJonenAppDelegate locationManager:didUpdateToLocation:fromLocation:]':/Users/enlund/OeG/Projects/HittaJonen/Classes/HittaJonenAppDelegate.m:143: warning: class 'HittaJonenAppDelegate' does not implement the 'OEGCommitQueueDelegate' protocol1(22@86"Class 'HittaJonenAppDelegate' does not implement the 'OEGCommitQueueDelegate' protocol300882873#161#171#0(6@69"/Users/enlund/OeG/Projects/HittaJonen/Classes/HittaJonenAppDelegate.m300870495#143#0#143#0#45"class '*' does not implement the '*' protocol0(0#0#69"/Users/enlund/OeG/Projects/HittaJonen/Classes/HittaJonenAppDelegate.m8674089472#1815"    cd /Users/enlund/OeG/Projects/HittaJonen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-generated-files.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-own-target-headers.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-all-target-headers.hmap -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-project-headers.hmap -F/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos -I/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/include -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources/armv6 -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources -include /var/folders/NL/NLcNKkHyHv4L8R7p52wVLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HittaJonen_Prefix-bklgeqpnipxiipcedpdenzkkuuas/HittaJonen_Prefix.pch -c /Users/enlund/OeG/Projects/HittaJonen/Classes/HittaJonenAppDelegate.m -o /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/HittaJonenAppDelegate.o0#
+
+CCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/HittaJonenViewController.o /Users/enlund/OeG/Projects/HittaJonen/Classes/HittaJonenViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s300882873.303777
+e300882873.406227
+r1
+xCompileC
+xbuild/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/HittaJonenViewController.o
+x/Users/enlund/OeG/Projects/HittaJonen/Classes/HittaJonenViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/enlund/OeG/Projects/HittaJonen/Classes/HittaJonenViewController.m: In function '-[HittaJonenViewController viewDidLoad]':
+o/Users/enlund/OeG/Projects/HittaJonen/Classes/HittaJonenViewController.m:49: warning: type 'id <UIApplicationDelegate>' does not conform to the 'CLLocationManagerDelegate' protocol
+lSLF07#2@80"Compile /Users/enlund/OeG/Projects/HittaJonen/Classes/HittaJonenViewController.m300882873#300882873#0(310"/Users/enlund/OeG/Projects/HittaJonen/Classes/HittaJonenViewController.m: In function '-[HittaJonenViewController viewDidLoad]':/Users/enlund/OeG/Projects/HittaJonen/Classes/HittaJonenViewController.m:49: warning: type 'id <UIApplicationDelegate>' does not conform to the 'CLLocationManagerDelegate' protocol1(22@94"Type 'id <UIApplicationDelegate>' does not conform to the 'CLLocationManagerDelegate' protocol300882873#129#181#0(6@72"/Users/enlund/OeG/Projects/HittaJonen/Classes/HittaJonenViewController.m300809500#49#0#49#0#45"type '*' does not conform to the '*' protocol0(0#0#72"/Users/enlund/OeG/Projects/HittaJonen/Classes/HittaJonenViewController.m8671295744#1821"    cd /Users/enlund/OeG/Projects/HittaJonen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-generated-files.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-own-target-headers.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-all-target-headers.hmap -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-project-headers.hmap -F/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos -I/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/include -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources/armv6 -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources -include /var/folders/NL/NLcNKkHyHv4L8R7p52wVLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HittaJonen_Prefix-bklgeqpnipxiipcedpdenzkkuuas/HittaJonen_Prefix.pch -c /Users/enlund/OeG/Projects/HittaJonen/Classes/HittaJonenViewController.m -o /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/HittaJonenViewController.o0#
+
+CCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/NSCharacterSet_Extensions.o /Users/enlund/OeG/Projects/HittaJonen/Classes/Source/Extensions/NSCharacterSet_Extensions.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s300882874.200189
+e300882874.293195
+r1
+xCompileC
+xbuild/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/NSCharacterSet_Extensions.o
+x/Users/enlund/OeG/Projects/HittaJonen/Classes/Source/Extensions/NSCharacterSet_Extensions.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/enlund/OeG/Projects/HittaJonen/Classes/Source/Extensions/NSCharacterSet_Extensions.m300882874#300882874#0(0"0(0#0#91"/Users/enlund/OeG/Projects/HittaJonen/Classes/Source/Extensions/NSCharacterSet_Extensions.m8674618624#1841"    cd /Users/enlund/OeG/Projects/HittaJonen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-generated-files.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-own-target-headers.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-all-target-headers.hmap -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-project-headers.hmap -F/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos -I/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/include -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources/armv6 -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources -include /var/folders/NL/NLcNKkHyHv4L8R7p52wVLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HittaJonen_Prefix-bklgeqpnipxiipcedpdenzkkuuas/HittaJonen_Prefix.pch -c /Users/enlund/OeG/Projects/HittaJonen/Classes/Source/Extensions/NSCharacterSet_Extensions.m -o /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/NSCharacterSet_Extensions.o0#
+
+CCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/NSString+OEGUrlEncodingString.o /Users/enlund/OeG/Projects/HittaJonen/../Nattstad/Classes/NSString+OEGUrlEncodingString.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s300882873.612966
+e300882873.714455
+r1
+xCompileC
+xbuild/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/NSString+OEGUrlEncodingString.o
+x/Users/enlund/OeG/Projects/HittaJonen/../Nattstad/Classes/NSString+OEGUrlEncodingString.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/enlund/OeG/Projects/HittaJonen/../Nattstad/Classes/NSString+OEGUrlEncodingString.m300882873#300882873#0(0"0(0#0#89"/Users/enlund/OeG/Projects/HittaJonen/../Nattstad/Classes/NSString+OEGUrlEncodingString.m8673294048#1843"    cd /Users/enlund/OeG/Projects/HittaJonen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-generated-files.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-own-target-headers.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-all-target-headers.hmap -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-project-headers.hmap -F/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos -I/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/include -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources/armv6 -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources -include /var/folders/NL/NLcNKkHyHv4L8R7p52wVLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HittaJonen_Prefix-bklgeqpnipxiipcedpdenzkkuuas/HittaJonen_Prefix.pch -c /Users/enlund/OeG/Projects/HittaJonen/../Nattstad/Classes/NSString+OEGUrlEncodingString.m -o /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/NSString+OEGUrlEncodingString.o0#
+
+CCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/NSURLConnection+OEGMultipleAttempts.o /Users/enlund/OeG/Projects/HittaJonen/../Nattstad/Classes/NSURLConnection+OEGMultipleAttempts.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s300882873.714564
+e300882873.791331
+r1
+xCompileC
+xbuild/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/NSURLConnection+OEGMultipleAttempts.o
+x/Users/enlund/OeG/Projects/HittaJonen/../Nattstad/Classes/NSURLConnection+OEGMultipleAttempts.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@103"Compile /Users/enlund/OeG/Projects/HittaJonen/../Nattstad/Classes/NSURLConnection+OEGMultipleAttempts.m300882873#300882873#0(0"0(0#0#95"/Users/enlund/OeG/Projects/HittaJonen/../Nattstad/Classes/NSURLConnection+OEGMultipleAttempts.m8675439232#1855"    cd /Users/enlund/OeG/Projects/HittaJonen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-generated-files.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-own-target-headers.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-all-target-headers.hmap -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-project-headers.hmap -F/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos -I/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/include -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources/armv6 -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources -include /var/folders/NL/NLcNKkHyHv4L8R7p52wVLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HittaJonen_Prefix-bklgeqpnipxiipcedpdenzkkuuas/HittaJonen_Prefix.pch -c /Users/enlund/OeG/Projects/HittaJonen/../Nattstad/Classes/NSURLConnection+OEGMultipleAttempts.m -o /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/NSURLConnection+OEGMultipleAttempts.o0#
+
+CCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/OEGCommitOperation.o /Users/enlund/OeG/Projects/HittaJonen/Classes/OEGCommitOperation.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s300882873.468182
+e300882873.612858
+r1
+xCompileC
+xbuild/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/OEGCommitOperation.o
+x/Users/enlund/OeG/Projects/HittaJonen/Classes/OEGCommitOperation.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/enlund/OeG/Projects/HittaJonen/Classes/OEGCommitOperation.m300882873#300882873#0(0"0(0#0#66"/Users/enlund/OeG/Projects/HittaJonen/Classes/OEGCommitOperation.m8674718784#1809"    cd /Users/enlund/OeG/Projects/HittaJonen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-generated-files.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-own-target-headers.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-all-target-headers.hmap -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-project-headers.hmap -F/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos -I/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/include -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources/armv6 -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources -include /var/folders/NL/NLcNKkHyHv4L8R7p52wVLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HittaJonen_Prefix-bklgeqpnipxiipcedpdenzkkuuas/HittaJonen_Prefix.pch -c /Users/enlund/OeG/Projects/HittaJonen/Classes/OEGCommitOperation.m -o /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/OEGCommitOperation.o0#
+
+CCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/OEGCommitQueue.o /Users/enlund/OeG/Projects/HittaJonen/Classes/OEGCommitQueue.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s300882873.406356
+e300882873.594165
+r1
+xCompileC
+xbuild/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/OEGCommitQueue.o
+x/Users/enlund/OeG/Projects/HittaJonen/Classes/OEGCommitQueue.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/enlund/OeG/Projects/HittaJonen/Classes/OEGCommitQueue.m300882873#300882873#0(0"0(0#0#62"/Users/enlund/OeG/Projects/HittaJonen/Classes/OEGCommitQueue.m8675749664#1801"    cd /Users/enlund/OeG/Projects/HittaJonen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-generated-files.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-own-target-headers.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-all-target-headers.hmap -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-project-headers.hmap -F/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos -I/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/include -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources/armv6 -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources -include /var/folders/NL/NLcNKkHyHv4L8R7p52wVLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HittaJonen_Prefix-bklgeqpnipxiipcedpdenzkkuuas/HittaJonen_Prefix.pch -c /Users/enlund/OeG/Projects/HittaJonen/Classes/OEGCommitQueue.m -o /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/OEGCommitQueue.o0#
+
+CCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/OEGCommitRequester.o /Users/enlund/OeG/Projects/HittaJonen/Classes/OEGCommitRequester.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s300882873.594274
+e300882873.862693
+r1
+xCompileC
+xbuild/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/OEGCommitRequester.o
+x/Users/enlund/OeG/Projects/HittaJonen/Classes/OEGCommitRequester.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/enlund/OeG/Projects/HittaJonen/Classes/OEGCommitRequester.m300882873#300882873#0(0"0(0#0#66"/Users/enlund/OeG/Projects/HittaJonen/Classes/OEGCommitRequester.m8673784224#1809"    cd /Users/enlund/OeG/Projects/HittaJonen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-generated-files.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-own-target-headers.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-all-target-headers.hmap -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-project-headers.hmap -F/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos -I/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/include -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources/armv6 -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources -include /var/folders/NL/NLcNKkHyHv4L8R7p52wVLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HittaJonen_Prefix-bklgeqpnipxiipcedpdenzkkuuas/HittaJonen_Prefix.pch -c /Users/enlund/OeG/Projects/HittaJonen/Classes/OEGCommitRequester.m -o /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/OEGCommitRequester.o0#
+
+CCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/Venue.o /Users/enlund/OeG/Projects/HittaJonen/Classes/Venue.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s300882873.862844
+e300882874.046178
+r1
+xCompileC
+xbuild/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/Venue.o
+x/Users/enlund/OeG/Projects/HittaJonen/Classes/Venue.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/enlund/OeG/Projects/HittaJonen/Classes/Venue.m300882873#300882874#0(0"0(0#0#53"/Users/enlund/OeG/Projects/HittaJonen/Classes/Venue.m8650644064#1783"    cd /Users/enlund/OeG/Projects/HittaJonen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-generated-files.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-own-target-headers.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-all-target-headers.hmap -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-project-headers.hmap -F/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos -I/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/include -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources/armv6 -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources -include /var/folders/NL/NLcNKkHyHv4L8R7p52wVLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HittaJonen_Prefix-bklgeqpnipxiipcedpdenzkkuuas/HittaJonen_Prefix.pch -c /Users/enlund/OeG/Projects/HittaJonen/Classes/Venue.m -o /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/Venue.o0#
+
+CCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/VenuesListViewController.o /Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s300882873.791448
+e300882874.144277
+r1
+xCompileC
+xbuild/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/VenuesListViewController.o
+x/Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.m: In function '-[VenuesListViewController fetchVenues]':
+o/Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.m:50: warning: unused variable 'resultString'
+o/Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.m:36: warning: unused variable 'pool'
+o/Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.m: In function '-[VenuesListViewController reloadData]':
+o/Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.m:92: warning: 'UIView' may not respond to '-reloadData'
+o/Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.m:92: warning: (Messages without a matching method signature
+o/Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.m:92: warning: will be assumed to return 'id' and accept
+o/Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.m:92: warning: '...' as arguments.)
+o/Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.m: In function '-[VenuesListViewController tableView:didSelectRowAtIndexPath:]':
+o/Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.m:250: warning: passing argument 3 of 'initWithTarget:selector:object:' makes pointer from integer without a cast
+lSLF07#2@80"Compile /Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.m300882873#300882874#0(1315"/Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.m: In function '-[VenuesListViewController fetchVenues]':/Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.m:50: warning: unused variable 'resultString'/Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.m:36: warning: unused variable 'pool'/Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.m: In function '-[VenuesListViewController reloadData]':/Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.m:92: warning: 'UIView' may not respond to '-reloadData'/Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.m:92: warning: (Messages without a matching method signature/Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.m:92: warning: will be assumed to return 'id' and accept/Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.m:92: warning: '...' as arguments.)/Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.m: In function '-[VenuesListViewController tableView:didSelectRowAtIndexPath:]':/Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.m:250: warning: passing argument 3 of 'initWithTarget:selector:object:' makes pointer from integer without a cast5(22@30"Unused variable 'resultString'300882873#129#117#0(6@72"/Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.m300882429#50#0#50#0#19"unused variable '*'0(22@22"Unused variable 'pool'300882873#246#109#0(6@72"/Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.m300882429#36#0#36#0#19"unused variable '*'0(22@41"'UIView' may not respond to '-reloadData'300882873#483#128#0(6@72"/Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.m300882429#92#0#92#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)300882873#611#132#0(6@72"/Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.m300882429#92#0#92#0#0"0(22@97"Passing argument 3 of 'initWithTarget:selector:object:' makes pointer from integer without a cast300882873#1130#185#0(6@72"/Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.m300882429#250#0#250#0#0"0(0#0#72"/Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.m8672081504#1821"    cd /Users/enlund/OeG/Projects/HittaJonen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-generated-files.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-own-target-headers.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-all-target-headers.hmap -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-project-headers.hmap -F/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos -I/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/include -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources/armv6 -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources -include /var/folders/NL/NLcNKkHyHv4L8R7p52wVLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HittaJonen_Prefix-bklgeqpnipxiipcedpdenzkkuuas/HittaJonen_Prefix.pch -c /Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.m -o /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/VenuesListViewController.o0#
+
+CCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/main.o /Users/enlund/OeG/Projects/HittaJonen/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s300882873.210946
+e300882873.303669
+r1
+xCompileC
+xbuild/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/main.o
+x/Users/enlund/OeG/Projects/HittaJonen/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/enlund/OeG/Projects/HittaJonen/main.m300882873#300882873#0(0"0(0#0#44"/Users/enlund/OeG/Projects/HittaJonen/main.m8675374432#1773"    cd /Users/enlund/OeG/Projects/HittaJonen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-generated-files.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-own-target-headers.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-all-target-headers.hmap -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-project-headers.hmap -F/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos -I/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/include -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources/armv6 -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources -include /var/folders/NL/NLcNKkHyHv4L8R7p52wVLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HittaJonen_Prefix-bklgeqpnipxiipcedpdenzkkuuas/HittaJonen_Prefix.pch -c /Users/enlund/OeG/Projects/HittaJonen/main.m -o /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/CDataScanner.o /Users/enlund/OeG/Projects/HittaJonen/Classes/Source/CDataScanner.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s300882875.581046
+e300882875.756810
+r1
+xCompileC
+xbuild/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/CDataScanner.o
+x/Users/enlund/OeG/Projects/HittaJonen/Classes/Source/CDataScanner.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/enlund/OeG/Projects/HittaJonen/Classes/Source/CDataScanner.m300882875#300882875#0(0"0(0#0#67"/Users/enlund/OeG/Projects/HittaJonen/Classes/Source/CDataScanner.m8676795648#1804"    cd /Users/enlund/OeG/Projects/HittaJonen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-generated-files.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-own-target-headers.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-all-target-headers.hmap -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-project-headers.hmap -F/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos -I/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/include -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources/armv7 -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources -include /var/folders/NL/NLcNKkHyHv4L8R7p52wVLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HittaJonen_Prefix-fldnlwovqqxxfxdfcqvetnlxuwqg/HittaJonen_Prefix.pch -c /Users/enlund/OeG/Projects/HittaJonen/Classes/Source/CDataScanner.m -o /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/CDataScanner.o0#
+
+CCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/CDataScanner_Extensions.o /Users/enlund/OeG/Projects/HittaJonen/Classes/Source/Extensions/CDataScanner_Extensions.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s300882875.676716
+e300882875.755448
+r1
+xCompileC
+xbuild/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/CDataScanner_Extensions.o
+x/Users/enlund/OeG/Projects/HittaJonen/Classes/Source/Extensions/CDataScanner_Extensions.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/enlund/OeG/Projects/HittaJonen/Classes/Source/Extensions/CDataScanner_Extensions.m300882875#300882875#0(0"0(0#0#89"/Users/enlund/OeG/Projects/HittaJonen/Classes/Source/Extensions/CDataScanner_Extensions.m8674619744#1837"    cd /Users/enlund/OeG/Projects/HittaJonen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-generated-files.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-own-target-headers.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-all-target-headers.hmap -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-project-headers.hmap -F/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos -I/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/include -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources/armv7 -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources -include /var/folders/NL/NLcNKkHyHv4L8R7p52wVLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HittaJonen_Prefix-fldnlwovqqxxfxdfcqvetnlxuwqg/HittaJonen_Prefix.pch -c /Users/enlund/OeG/Projects/HittaJonen/Classes/Source/Extensions/CDataScanner_Extensions.m -o /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/CDataScanner_Extensions.o0#
+
+CCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/CJSONDeserializer.o /Users/enlund/OeG/Projects/HittaJonen/Classes/Source/JSON/CJSONDeserializer.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s300882875.756984
+e300882875.854848
+r1
+xCompileC
+xbuild/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/CJSONDeserializer.o
+x/Users/enlund/OeG/Projects/HittaJonen/Classes/Source/JSON/CJSONDeserializer.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/enlund/OeG/Projects/HittaJonen/Classes/Source/JSON/CJSONDeserializer.m300882875#300882875#0(0"0(0#0#77"/Users/enlund/OeG/Projects/HittaJonen/Classes/Source/JSON/CJSONDeserializer.m8673722368#1819"    cd /Users/enlund/OeG/Projects/HittaJonen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-generated-files.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-own-target-headers.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-all-target-headers.hmap -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-project-headers.hmap -F/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos -I/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/include -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources/armv7 -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources -include /var/folders/NL/NLcNKkHyHv4L8R7p52wVLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HittaJonen_Prefix-fldnlwovqqxxfxdfcqvetnlxuwqg/HittaJonen_Prefix.pch -c /Users/enlund/OeG/Projects/HittaJonen/Classes/Source/JSON/CJSONDeserializer.m -o /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/CJSONDeserializer.o0#
+
+CCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/CJSONScanner.o /Users/enlund/OeG/Projects/HittaJonen/Classes/Source/JSON/CJSONScanner.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s300882875.838749
+e300882876.026780
+r1
+xCompileC
+xbuild/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/CJSONScanner.o
+x/Users/enlund/OeG/Projects/HittaJonen/Classes/Source/JSON/CJSONScanner.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/enlund/OeG/Projects/HittaJonen/Classes/Source/JSON/CJSONScanner.m300882875#300882876#0(0"0(0#0#72"/Users/enlund/OeG/Projects/HittaJonen/Classes/Source/JSON/CJSONScanner.m8673204576#1809"    cd /Users/enlund/OeG/Projects/HittaJonen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-generated-files.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-own-target-headers.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-all-target-headers.hmap -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-project-headers.hmap -F/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos -I/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/include -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources/armv7 -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources -include /var/folders/NL/NLcNKkHyHv4L8R7p52wVLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HittaJonen_Prefix-fldnlwovqqxxfxdfcqvetnlxuwqg/HittaJonen_Prefix.pch -c /Users/enlund/OeG/Projects/HittaJonen/Classes/Source/JSON/CJSONScanner.m -o /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/CJSONScanner.o0#
+
+CCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/CJSONSerializer.o /Users/enlund/OeG/Projects/HittaJonen/Classes/Source/JSON/CJSONSerializer.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s300882875.854954
+e300882875.990466
+r1
+xCompileC
+xbuild/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/CJSONSerializer.o
+x/Users/enlund/OeG/Projects/HittaJonen/Classes/Source/JSON/CJSONSerializer.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/enlund/OeG/Projects/HittaJonen/Classes/Source/JSON/CJSONSerializer.m300882875#300882875#0(0"0(0#0#75"/Users/enlund/OeG/Projects/HittaJonen/Classes/Source/JSON/CJSONSerializer.m8672958880#1815"    cd /Users/enlund/OeG/Projects/HittaJonen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-generated-files.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-own-target-headers.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-all-target-headers.hmap -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-project-headers.hmap -F/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos -I/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/include -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources/armv7 -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources -include /var/folders/NL/NLcNKkHyHv4L8R7p52wVLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HittaJonen_Prefix-fldnlwovqqxxfxdfcqvetnlxuwqg/HittaJonen_Prefix.pch -c /Users/enlund/OeG/Projects/HittaJonen/Classes/Source/JSON/CJSONSerializer.m -o /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/CJSONSerializer.o0#
+
+CCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/HittaJonenAppDelegate.o /Users/enlund/OeG/Projects/HittaJonen/Classes/HittaJonenAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s300882874.727916
+e300882874.998318
+r1
+xCompileC
+xbuild/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/HittaJonenAppDelegate.o
+x/Users/enlund/OeG/Projects/HittaJonen/Classes/HittaJonenAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/enlund/OeG/Projects/HittaJonen/Classes/HittaJonenAppDelegate.m: In function '-[HittaJonenAppDelegate locationManager:didUpdateToLocation:fromLocation:]':
+o/Users/enlund/OeG/Projects/HittaJonen/Classes/HittaJonenAppDelegate.m:143: warning: class 'HittaJonenAppDelegate' does not implement the 'OEGCommitQueueDelegate' protocol
+lSLF07#2@77"Compile /Users/enlund/OeG/Projects/HittaJonen/Classes/HittaJonenAppDelegate.m300882874#300882875#0(332"/Users/enlund/OeG/Projects/HittaJonen/Classes/HittaJonenAppDelegate.m: In function '-[HittaJonenAppDelegate locationManager:didUpdateToLocation:fromLocation:]':/Users/enlund/OeG/Projects/HittaJonen/Classes/HittaJonenAppDelegate.m:143: warning: class 'HittaJonenAppDelegate' does not implement the 'OEGCommitQueueDelegate' protocol1(22@86"Class 'HittaJonenAppDelegate' does not implement the 'OEGCommitQueueDelegate' protocol300882874#161#171#0(6@69"/Users/enlund/OeG/Projects/HittaJonen/Classes/HittaJonenAppDelegate.m300870495#143#0#143#0#45"class '*' does not implement the '*' protocol0(0#0#69"/Users/enlund/OeG/Projects/HittaJonen/Classes/HittaJonenAppDelegate.m8673250496#1815"    cd /Users/enlund/OeG/Projects/HittaJonen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-generated-files.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-own-target-headers.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-all-target-headers.hmap -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-project-headers.hmap -F/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos -I/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/include -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources/armv7 -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources -include /var/folders/NL/NLcNKkHyHv4L8R7p52wVLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HittaJonen_Prefix-fldnlwovqqxxfxdfcqvetnlxuwqg/HittaJonen_Prefix.pch -c /Users/enlund/OeG/Projects/HittaJonen/Classes/HittaJonenAppDelegate.m -o /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/HittaJonenAppDelegate.o0#
+
+CCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/HittaJonenViewController.o /Users/enlund/OeG/Projects/HittaJonen/Classes/HittaJonenViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s300882874.802317
+e300882874.930912
+r1
+xCompileC
+xbuild/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/HittaJonenViewController.o
+x/Users/enlund/OeG/Projects/HittaJonen/Classes/HittaJonenViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/enlund/OeG/Projects/HittaJonen/Classes/HittaJonenViewController.m: In function '-[HittaJonenViewController viewDidLoad]':
+o/Users/enlund/OeG/Projects/HittaJonen/Classes/HittaJonenViewController.m:49: warning: type 'id <UIApplicationDelegate>' does not conform to the 'CLLocationManagerDelegate' protocol
+lSLF07#2@80"Compile /Users/enlund/OeG/Projects/HittaJonen/Classes/HittaJonenViewController.m300882874#300882874#0(310"/Users/enlund/OeG/Projects/HittaJonen/Classes/HittaJonenViewController.m: In function '-[HittaJonenViewController viewDidLoad]':/Users/enlund/OeG/Projects/HittaJonen/Classes/HittaJonenViewController.m:49: warning: type 'id <UIApplicationDelegate>' does not conform to the 'CLLocationManagerDelegate' protocol1(22@94"Type 'id <UIApplicationDelegate>' does not conform to the 'CLLocationManagerDelegate' protocol300882874#129#181#0(6@72"/Users/enlund/OeG/Projects/HittaJonen/Classes/HittaJonenViewController.m300809500#49#0#49#0#45"type '*' does not conform to the '*' protocol0(0#0#72"/Users/enlund/OeG/Projects/HittaJonen/Classes/HittaJonenViewController.m8672261216#1821"    cd /Users/enlund/OeG/Projects/HittaJonen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-generated-files.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-own-target-headers.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-all-target-headers.hmap -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-project-headers.hmap -F/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos -I/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/include -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources/armv7 -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources -include /var/folders/NL/NLcNKkHyHv4L8R7p52wVLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HittaJonen_Prefix-fldnlwovqqxxfxdfcqvetnlxuwqg/HittaJonen_Prefix.pch -c /Users/enlund/OeG/Projects/HittaJonen/Classes/HittaJonenViewController.m -o /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/HittaJonenViewController.o0#
+
+CCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/NSCharacterSet_Extensions.o /Users/enlund/OeG/Projects/HittaJonen/Classes/Source/Extensions/NSCharacterSet_Extensions.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s300882875.755556
+e300882875.838646
+r1
+xCompileC
+xbuild/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/NSCharacterSet_Extensions.o
+x/Users/enlund/OeG/Projects/HittaJonen/Classes/Source/Extensions/NSCharacterSet_Extensions.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/enlund/OeG/Projects/HittaJonen/Classes/Source/Extensions/NSCharacterSet_Extensions.m300882875#300882875#0(0"0(0#0#91"/Users/enlund/OeG/Projects/HittaJonen/Classes/Source/Extensions/NSCharacterSet_Extensions.m8674123584#1841"    cd /Users/enlund/OeG/Projects/HittaJonen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-generated-files.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-own-target-headers.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-all-target-headers.hmap -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-project-headers.hmap -F/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos -I/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/include -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources/armv7 -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources -include /var/folders/NL/NLcNKkHyHv4L8R7p52wVLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HittaJonen_Prefix-fldnlwovqqxxfxdfcqvetnlxuwqg/HittaJonen_Prefix.pch -c /Users/enlund/OeG/Projects/HittaJonen/Classes/Source/Extensions/NSCharacterSet_Extensions.m -o /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/NSCharacterSet_Extensions.o0#
+
+CCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/NSString+OEGUrlEncodingString.o /Users/enlund/OeG/Projects/HittaJonen/../Nattstad/Classes/NSString+OEGUrlEncodingString.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s300882875.186725
+e300882875.313371
+r1
+xCompileC
+xbuild/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/NSString+OEGUrlEncodingString.o
+x/Users/enlund/OeG/Projects/HittaJonen/../Nattstad/Classes/NSString+OEGUrlEncodingString.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/enlund/OeG/Projects/HittaJonen/../Nattstad/Classes/NSString+OEGUrlEncodingString.m300882875#300882875#0(0"0(0#0#89"/Users/enlund/OeG/Projects/HittaJonen/../Nattstad/Classes/NSString+OEGUrlEncodingString.m8672759936#1843"    cd /Users/enlund/OeG/Projects/HittaJonen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-generated-files.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-own-target-headers.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-all-target-headers.hmap -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-project-headers.hmap -F/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos -I/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/include -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources/armv7 -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources -include /var/folders/NL/NLcNKkHyHv4L8R7p52wVLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HittaJonen_Prefix-fldnlwovqqxxfxdfcqvetnlxuwqg/HittaJonen_Prefix.pch -c /Users/enlund/OeG/Projects/HittaJonen/../Nattstad/Classes/NSString+OEGUrlEncodingString.m -o /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/NSString+OEGUrlEncodingString.o0#
+
+CCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/NSURLConnection+OEGMultipleAttempts.o /Users/enlund/OeG/Projects/HittaJonen/../Nattstad/Classes/NSURLConnection+OEGMultipleAttempts.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s300882875.313482
+e300882875.578441
+r1
+xCompileC
+xbuild/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/NSURLConnection+OEGMultipleAttempts.o
+x/Users/enlund/OeG/Projects/HittaJonen/../Nattstad/Classes/NSURLConnection+OEGMultipleAttempts.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@103"Compile /Users/enlund/OeG/Projects/HittaJonen/../Nattstad/Classes/NSURLConnection+OEGMultipleAttempts.m300882875#300882875#0(0"0(0#0#95"/Users/enlund/OeG/Projects/HittaJonen/../Nattstad/Classes/NSURLConnection+OEGMultipleAttempts.m8672838144#1855"    cd /Users/enlund/OeG/Projects/HittaJonen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-generated-files.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-own-target-headers.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-all-target-headers.hmap -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-project-headers.hmap -F/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos -I/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/include -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources/armv7 -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources -include /var/folders/NL/NLcNKkHyHv4L8R7p52wVLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HittaJonen_Prefix-fldnlwovqqxxfxdfcqvetnlxuwqg/HittaJonen_Prefix.pch -c /Users/enlund/OeG/Projects/HittaJonen/../Nattstad/Classes/NSURLConnection+OEGMultipleAttempts.m -o /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/NSURLConnection+OEGMultipleAttempts.o0#
+
+CCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/OEGCommitOperation.o /Users/enlund/OeG/Projects/HittaJonen/Classes/OEGCommitOperation.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s300882874.998462
+e300882875.186489
+r1
+xCompileC
+xbuild/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/OEGCommitOperation.o
+x/Users/enlund/OeG/Projects/HittaJonen/Classes/OEGCommitOperation.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/enlund/OeG/Projects/HittaJonen/Classes/OEGCommitOperation.m300882874#300882875#0(0"0(0#0#66"/Users/enlund/OeG/Projects/HittaJonen/Classes/OEGCommitOperation.m8674213248#1809"    cd /Users/enlund/OeG/Projects/HittaJonen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-generated-files.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-own-target-headers.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-all-target-headers.hmap -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-project-headers.hmap -F/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos -I/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/include -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources/armv7 -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources -include /var/folders/NL/NLcNKkHyHv4L8R7p52wVLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HittaJonen_Prefix-fldnlwovqqxxfxdfcqvetnlxuwqg/HittaJonen_Prefix.pch -c /Users/enlund/OeG/Projects/HittaJonen/Classes/OEGCommitOperation.m -o /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/OEGCommitOperation.o0#
+
+CCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/OEGCommitQueue.o /Users/enlund/OeG/Projects/HittaJonen/Classes/OEGCommitQueue.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s300882874.931025
+e300882875.059375
+r1
+xCompileC
+xbuild/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/OEGCommitQueue.o
+x/Users/enlund/OeG/Projects/HittaJonen/Classes/OEGCommitQueue.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/enlund/OeG/Projects/HittaJonen/Classes/OEGCommitQueue.m300882874#300882875#0(0"0(0#0#62"/Users/enlund/OeG/Projects/HittaJonen/Classes/OEGCommitQueue.m8674519392#1801"    cd /Users/enlund/OeG/Projects/HittaJonen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-generated-files.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-own-target-headers.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-all-target-headers.hmap -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-project-headers.hmap -F/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos -I/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/include -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources/armv7 -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources -include /var/folders/NL/NLcNKkHyHv4L8R7p52wVLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HittaJonen_Prefix-fldnlwovqqxxfxdfcqvetnlxuwqg/HittaJonen_Prefix.pch -c /Users/enlund/OeG/Projects/HittaJonen/Classes/OEGCommitQueue.m -o /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/OEGCommitQueue.o0#
+
+CCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/OEGCommitRequester.o /Users/enlund/OeG/Projects/HittaJonen/Classes/OEGCommitRequester.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s300882875.059489
+e300882875.402925
+r1
+xCompileC
+xbuild/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/OEGCommitRequester.o
+x/Users/enlund/OeG/Projects/HittaJonen/Classes/OEGCommitRequester.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/enlund/OeG/Projects/HittaJonen/Classes/OEGCommitRequester.m300882875#300882875#0(0"0(0#0#66"/Users/enlund/OeG/Projects/HittaJonen/Classes/OEGCommitRequester.m8673729504#1809"    cd /Users/enlund/OeG/Projects/HittaJonen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-generated-files.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-own-target-headers.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-all-target-headers.hmap -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-project-headers.hmap -F/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos -I/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/include -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources/armv7 -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources -include /var/folders/NL/NLcNKkHyHv4L8R7p52wVLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HittaJonen_Prefix-fldnlwovqqxxfxdfcqvetnlxuwqg/HittaJonen_Prefix.pch -c /Users/enlund/OeG/Projects/HittaJonen/Classes/OEGCommitRequester.m -o /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/OEGCommitRequester.o0#
+
+CCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/Venue.o /Users/enlund/OeG/Projects/HittaJonen/Classes/Venue.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s300882875.578524
+e300882875.676600
+r1
+xCompileC
+xbuild/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/Venue.o
+x/Users/enlund/OeG/Projects/HittaJonen/Classes/Venue.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/enlund/OeG/Projects/HittaJonen/Classes/Venue.m300882875#300882875#0(0"0(0#0#53"/Users/enlund/OeG/Projects/HittaJonen/Classes/Venue.m8670312928#1783"    cd /Users/enlund/OeG/Projects/HittaJonen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-generated-files.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-own-target-headers.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-all-target-headers.hmap -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-project-headers.hmap -F/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos -I/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/include -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources/armv7 -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources -include /var/folders/NL/NLcNKkHyHv4L8R7p52wVLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HittaJonen_Prefix-fldnlwovqqxxfxdfcqvetnlxuwqg/HittaJonen_Prefix.pch -c /Users/enlund/OeG/Projects/HittaJonen/Classes/Venue.m -o /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/Venue.o0#
+
+CCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/VenuesListViewController.o /Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s300882875.403060
+e300882875.578199
+r1
+xCompileC
+xbuild/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/VenuesListViewController.o
+x/Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.m: In function '-[VenuesListViewController fetchVenues]':
+o/Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.m:50: warning: unused variable 'resultString'
+o/Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.m:36: warning: unused variable 'pool'
+o/Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.m: In function '-[VenuesListViewController reloadData]':
+o/Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.m:92: warning: 'UIView' may not respond to '-reloadData'
+o/Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.m:92: warning: (Messages without a matching method signature
+o/Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.m:92: warning: will be assumed to return 'id' and accept
+o/Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.m:92: warning: '...' as arguments.)
+o/Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.m: In function '-[VenuesListViewController tableView:didSelectRowAtIndexPath:]':
+o/Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.m:250: warning: passing argument 3 of 'initWithTarget:selector:object:' makes pointer from integer without a cast
+lSLF07#2@80"Compile /Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.m300882875#300882875#0(1315"/Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.m: In function '-[VenuesListViewController fetchVenues]':/Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.m:50: warning: unused variable 'resultString'/Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.m:36: warning: unused variable 'pool'/Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.m: In function '-[VenuesListViewController reloadData]':/Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.m:92: warning: 'UIView' may not respond to '-reloadData'/Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.m:92: warning: (Messages without a matching method signature/Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.m:92: warning: will be assumed to return 'id' and accept/Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.m:92: warning: '...' as arguments.)/Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.m: In function '-[VenuesListViewController tableView:didSelectRowAtIndexPath:]':/Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.m:250: warning: passing argument 3 of 'initWithTarget:selector:object:' makes pointer from integer without a cast5(22@30"Unused variable 'resultString'300882875#129#117#0(6@72"/Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.m300882429#50#0#50#0#19"unused variable '*'0(22@22"Unused variable 'pool'300882875#246#109#0(6@72"/Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.m300882429#36#0#36#0#19"unused variable '*'0(22@41"'UIView' may not respond to '-reloadData'300882875#483#128#0(6@72"/Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.m300882429#92#0#92#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)300882875#611#132#0(6@72"/Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.m300882429#92#0#92#0#0"0(22@97"Passing argument 3 of 'initWithTarget:selector:object:' makes pointer from integer without a cast300882875#1130#185#0(6@72"/Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.m300882429#250#0#250#0#0"0(0#0#72"/Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.m8672414656#1821"    cd /Users/enlund/OeG/Projects/HittaJonen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-generated-files.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-own-target-headers.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-all-target-headers.hmap -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-project-headers.hmap -F/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos -I/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/include -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources/armv7 -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources -include /var/folders/NL/NLcNKkHyHv4L8R7p52wVLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HittaJonen_Prefix-fldnlwovqqxxfxdfcqvetnlxuwqg/HittaJonen_Prefix.pch -c /Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.m -o /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/VenuesListViewController.o0#
+
+CCompileC build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/main.o /Users/enlund/OeG/Projects/HittaJonen/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s300882874.567393
+e300882874.727818
+r1
+xCompileC
+xbuild/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/main.o
+x/Users/enlund/OeG/Projects/HittaJonen/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/enlund/OeG/Projects/HittaJonen/main.m300882874#300882874#0(0"0(0#0#44"/Users/enlund/OeG/Projects/HittaJonen/main.m8676346464#1773"    cd /Users/enlund/OeG/Projects/HittaJonen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-generated-files.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-own-target-headers.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-all-target-headers.hmap -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-project-headers.hmap -F/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos -I/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/include -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources/armv7 -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources -include /var/folders/NL/NLcNKkHyHv4L8R7p52wVLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HittaJonen_Prefix-fldnlwovqqxxfxdfcqvetnlxuwqg/HittaJonen_Prefix.pch -c /Users/enlund/OeG/Projects/HittaJonen/main.m -o /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/main.o0#
+
+CCompileXIB /Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.xib
+s300882868.843954
+e300882869.250476
+r1
+xCompileXIB
+x/Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@47"CompileXIB Classes/VenuesListViewController.xib300882868#300882869#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#74"/Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.xib8672044448#578"    cd /Users/enlund/OeG/Projects/HittaJonen    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/HittaJonen.app/VenuesListViewController.nib /Users/enlund/OeG/Projects/HittaJonen/Classes/VenuesListViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk0#
+
+CCompileXIB /Users/enlund/OeG/Projects/HittaJonen/HittaJonenViewController.xib
+s300882865.045194
+e300882868.846240
+r1
+xCompileXIB
+x/Users/enlund/OeG/Projects/HittaJonen/HittaJonenViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@39"CompileXIB HittaJonenViewController.xib300882865#300882868#0(1176"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#66"/Users/enlund/OeG/Projects/HittaJonen/HittaJonenViewController.xib8670056288#570"    cd /Users/enlund/OeG/Projects/HittaJonen    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/HittaJonen.app/HittaJonenViewController.nib /Users/enlund/OeG/Projects/HittaJonen/HittaJonenViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk0#
+
+CCompileXIB /Users/enlund/OeG/Projects/HittaJonen/MainWindow.xib
+s300882865.043238
+e300882868.843725
+r1
+xCompileXIB
+x/Users/enlund/OeG/Projects/HittaJonen/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib300882865#300882868#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#52"/Users/enlund/OeG/Projects/HittaJonen/MainWindow.xib32651548274720816#542"    cd /Users/enlund/OeG/Projects/HittaJonen    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/HittaJonen.app/MainWindow.nib /Users/enlund/OeG/Projects/HittaJonen/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk0#
+
+CCpResource build/Debug-iphoneos/HittaJonen.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+s300882864.894687
+e300882865.043142
+r1
+xCpResource
+xbuild/Debug-iphoneos/HittaJonen.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist300882864#300882865#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist8650070016#481"    cd /Users/enlund/OeG/Projects/HittaJonen    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist /Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/HittaJonen.app0#
+
+CCreateUniversalBinary /Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/HittaJonen.app/HittaJonen normal "armv6 armv7"
+s300882876.104033
+e300882876.130405
+r1
+xCreateUniversalBinary
+x/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/HittaJonen.app/HittaJonen
+xnormal
+xarmv6 armv7
+lSLF07#2@89"CreateUniversalBinary build/Debug-iphoneos/HittaJonen.app/HittaJonen normal "armv6 armv7"300882876#300882876#0(0"0(0#0#49"/Users/enlund/OeG/Projects/HittaJonen/armv6 armv78670722272#538"    cd /Users/enlund/OeG/Projects/HittaJonen    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/HittaJonen /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/HittaJonen -output /Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/HittaJonen.app/HittaJonen0#
+
+CGenerateDSYMFile /Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/HittaJonen.app.dSYM /Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/HittaJonen.app/HittaJonen
+s300882876.130512
+e300882876.171511
+r1
+xGenerateDSYMFile
+x/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/HittaJonen.app.dSYM
+x/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/HittaJonen.app/HittaJonen
+lSLF07#2@104"GenerateDSYMFile build/Debug-iphoneos/HittaJonen.app.dSYM build/Debug-iphoneos/HittaJonen.app/HittaJonen300882876#300882876#0(0"0(0#0#84"/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/HittaJonen.app/HittaJonen8672410592#368"    cd /Users/enlund/OeG/Projects/HittaJonen    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/HittaJonen.app/HittaJonen -o /Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/HittaJonen.app.dSYM0#
+
+CLd /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/HittaJonen normal armv6
+s300882874.628671
+e300882874.802196
+r1
+xLd
+x/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/HittaJonen
+xnormal
+xarmv6
+lSLF07#2@129"Link /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/HittaJonen300882874#300882874#0(0"0(0#0#0"8674723648#896"    cd /Users/enlund/OeG/Projects/HittaJonen    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -L/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos -F/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos -filelist /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/HittaJonen.LinkFileList -dead_strip -miphoneos-version-min=4.0 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreLocation -o /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv6/HittaJonen0#
+
+CLd /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/HittaJonen normal armv7
+s300882876.026875
+e300882876.103805
+r1
+xLd
+x/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/HittaJonen
+xnormal
+xarmv7
+lSLF07#2@129"Link /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/HittaJonen300882876#300882876#0(0"0(0#0#0"8674258560#896"    cd /Users/enlund/OeG/Projects/HittaJonen    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -L/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos -F/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos -filelist /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/HittaJonen.LinkFileList -dead_strip -miphoneos-version-min=4.0 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreLocation -o /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/Objects-normal/armv7/HittaJonen0#
+
+CProcessInfoPlistFile /Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/HittaJonen.app/Info.plist HittaJonen-Info.plist
+s300882864.896720
+e300882864.971467
+r1
+xProcessInfoPlistFile
+x/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/HittaJonen.app/Info.plist
+xHittaJonen-Info.plist
+lSLF07#2@29"Process HittaJonen-Info.plist300882864#300882864#0(0"0(0#0#59"/Users/enlund/OeG/Projects/HittaJonen/HittaJonen-Info.plist8669687712#570"    cd /Users/enlund/OeG/Projects/HittaJonen    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility HittaJonen-Info.plist -genpkginfo /Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/HittaJonen.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/HittaJonen.app/ResourceRules.plist -o /Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/HittaJonen.app/Info.plist0#
+
+CProcessPCH /var/folders/NL/NLcNKkHyHv4L8R7p52wVLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HittaJonen_Prefix-bklgeqpnipxiipcedpdenzkkuuas/HittaJonen_Prefix.pch.gch HittaJonen_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s300882869.250602
+e300882873.210832
+r1
+xProcessPCH
+x/var/folders/NL/NLcNKkHyHv4L8R7p52wVLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HittaJonen_Prefix-bklgeqpnipxiipcedpdenzkkuuas/HittaJonen_Prefix.pch.gch
+xHittaJonen_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile HittaJonen_Prefix.pch300882869#300882873#0(0"0(0#0#59"/Users/enlund/OeG/Projects/HittaJonen/HittaJonen_Prefix.pch8676735904#1669"    cd /Users/enlund/OeG/Projects/HittaJonen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-generated-files.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-own-target-headers.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-all-target-headers.hmap -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-project-headers.hmap -F/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos -I/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/include -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources/armv6 -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources -c /Users/enlund/OeG/Projects/HittaJonen/HittaJonen_Prefix.pch -o /var/folders/NL/NLcNKkHyHv4L8R7p52wVLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HittaJonen_Prefix-bklgeqpnipxiipcedpdenzkkuuas/HittaJonen_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/NL/NLcNKkHyHv4L8R7p52wVLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HittaJonen_Prefix-fldnlwovqqxxfxdfcqvetnlxuwqg/HittaJonen_Prefix.pch.gch HittaJonen_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s300882869.251623
+e300882872.951510
+r1
+xProcessPCH
+x/var/folders/NL/NLcNKkHyHv4L8R7p52wVLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HittaJonen_Prefix-fldnlwovqqxxfxdfcqvetnlxuwqg/HittaJonen_Prefix.pch.gch
+xHittaJonen_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile HittaJonen_Prefix.pch300882869#300882872#0(0"0(0#0#59"/Users/enlund/OeG/Projects/HittaJonen/HittaJonen_Prefix.pch8670335648#1669"    cd /Users/enlund/OeG/Projects/HittaJonen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-generated-files.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-own-target-headers.hmap -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-all-target-headers.hmap -iquote /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen-project-headers.hmap -F/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos -I/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/include -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources/armv7 -I/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/DerivedSources -c /Users/enlund/OeG/Projects/HittaJonen/HittaJonen_Prefix.pch -o /var/folders/NL/NLcNKkHyHv4L8R7p52wVLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HittaJonen_Prefix-fldnlwovqqxxfxdfcqvetnlxuwqg/HittaJonen_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/enlund/Library/MobileDevice/Provisioning Profiles/7382D161-E76E-4EC2-8BBB-436DC7C2199E.mobileprovision" /Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/HittaJonen.app/embedded.mobileprovision
+s300882876.171623
+e300882876.297290
+r1
+xProcessProductPackaging
+x/Users/enlund/Library/MobileDevice/Provisioning Profiles/7382D161-E76E-4EC2-8BBB-436DC7C2199E.mobileprovision
+x/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/HittaJonen.app/embedded.mobileprovision
+lSLF07#2@196"ProcessProductPackaging "/Users/enlund/Library/MobileDevice/Provisioning Profiles/7382D161-E76E-4EC2-8BBB-436DC7C2199E.mobileprovision" build/Debug-iphoneos/HittaJonen.app/embedded.mobileprovision300882876#300882876#0(0"0(0#0#98"/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/HittaJonen.app/embedded.mobileprovision8669984448#425"    cd /Users/enlund/OeG/Projects/HittaJonen    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/enlund/Library/MobileDevice/Provisioning Profiles/7382D161-E76E-4EC2-8BBB-436DC7C2199E.mobileprovision" -o /Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/HittaJonen.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen.xcent
+s300882876.334381
+e300882876.368542
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist
+x/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen.xcent
+lSLF07#2@184"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen.xcent300882876#300882876#0(0"0(0#0#109"/Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen.xcent8674737472#439"    cd /Users/enlund/OeG/Projects/HittaJonen    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist -entitlements -format xml -o /Users/enlund/OeG/Projects/HittaJonen/build/HittaJonen.build/Debug-iphoneos/HittaJonen.build/HittaJonen.xcent0#
+
+CTouch /Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/HittaJonen.app
+s300882876.297366
+e300882876.334279
+r1
+xTouch
+x/Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/HittaJonen.app
+lSLF07#2@79"Touch /Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/HittaJonen.app300882876#300882876#0(0"0(0#0#0"8677254496#265"    cd /Users/enlund/OeG/Projects/HittaJonen    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/enlund/OeG/Projects/HittaJonen/build/Debug-iphoneos/HittaJonen.app0#
+
